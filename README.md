@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm [Mahmoud AbuAisha] 👋
 
-<!--
-**mahmoudabuaisha/mahmoudabuaisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Software Developer with a strong academic background and a deep interest in building secure, scalable, and efficient systems. I bridge the gap between full-stack web development and the complex world of cyber-physical systems.
 
-Here are some ideas to get you started:
+**🎓 Education:**
+* Master's Degree in Cyber-Physical Systems
+* Bachelor's Degree in Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💻 Tech Stack & Skills:**
+* **Languages:** Python, JavaScript, HTML/CSS
+* **Development:** Full-Stack Web Development (Frontend & Backend)
+* **Environments:** Proficient in both Linux and Windows ecosystems (VS Code, PyCharm)
+* **Interests:** Cloud infrastructure, cybersecurity, network traffic monitoring, and server management.
+
+Always eager to build, test, and deploy robust applications!
